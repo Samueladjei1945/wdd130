@@ -1,0 +1,30 @@
+main {
+    width: 80%; /* Adjust width as needed */
+    margin: 0 auto; /* Center the main content */
+  }
+  aside {
+    width: 300px; /* Adjust width as needed */
+    margin: 20px;
+    border: 2px solid #ccc; /* Add a border */
+    padding: 10px;
+    background-color: #f9f9f9; /* Light background color */
+    color: #333; /* Text color */
+  }
+  
+  aside img {
+    width: 200px; /* Image width */
+    height: auto; /* Maintain aspect ratio */
+  }
+  main aside img {
+    width: 200px;
+    height: auto;
+  }
+  p {
+    padding: 0; /* Set padding to 0 */
+  }
+  footer {
+    margin-top: 20px; /* Top margin */
+    border-top: 2px solid #ccc; /* Top border */
+    text-align: center; /* Center align text */
+  }
+          
